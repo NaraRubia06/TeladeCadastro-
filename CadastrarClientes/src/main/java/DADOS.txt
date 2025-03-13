@@ -1,0 +1,82 @@
+====================
+
+====================
+
+====================
+Nome: nara teste tabela 2
+Data de Nascimento: 06/11/2005
+CPF:    .   .   -  
+Genero: Masculino
+CEP:      -   
+Estado: 
+Cidade: 
+Bairro: 
+Logradouro: 
+Complemento: CASA 
+Numero: 
+E-mail: 
+WhatsApp: (  )      -    
+Profissao: 
+Tipo: PESSOA FÍSICA
+Status: ATIVO
+Observacoes: 
+------------------------------------------------------
+
+====================
+Nome: teste 3
+Data de Nascimento: 11/11/1111
+CPF:    .   .   -  
+Genero: Masculino
+CEP:      -   
+Estado: 
+Cidade: 
+Bairro: 
+Logradouro: 
+Complemento: CASA 
+Numero: 
+E-mail: 
+WhatsApp: (  )      -    
+Profissao: 
+Tipo: PESSOA FÍSICA
+Status: ATIVO
+Observacoes: 
+------------------------------------------------------
+
+====================
+Nome: teste 4
+Data de Nascimento: 11/11/1111
+CPF:    .   .   -  
+Genero: Masculino
+CEP: 85814-160
+Estado: PR
+Cidade: Cascavel
+Bairro: Brazmadeira
+Logradouro: Rua Poente do Sol
+Complemento: CASA 
+Numero: 
+E-mail: 
+WhatsApp: (  )      -    
+Profissao: 
+Tipo: PESSOA FÍSICA
+Status: ATIVO
+Observacoes: 
+------------------------------------------------------
+
+====================
+Nome: teste 5
+Data Nascimento: 11/11/1111
+CPF:    .   .   -  
+Genero: Feminino
+CEP: 85814-160
+Estado: PR
+Cidade: Cascavel
+Bairro: Brazmadeira
+Logradouro: Rua Poente do Sol
+Complemento: CASA 
+Numero: 
+Profissao: 
+Tipo / Cliente: PESSOA FÍSICA
+Status: ATIVO
+Observacoes: 
+E-mail: 
+WhatsApp: (  )      -    
